@@ -16,7 +16,7 @@ public class TestDogbreeds {
     @Given("^I open the dog api endpoint$")
     public void iOpenTheDogApiEndpoint() {
 
-        String url = "https://dog.ceo/api/";
+        String endpoint = url;
 
     }
 

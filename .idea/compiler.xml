@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="apitestcucumber" />
         <module name="apitest-cucumber" />
+        <module name="apitestcucumber 2" />
       </profile>
     </annotationProcessing>
   </component>
