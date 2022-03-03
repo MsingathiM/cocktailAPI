@@ -7,9 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CocktailAPI" />
         <module name="apitestcucumber" />
         <module name="apitest-cucumber" />
-        <module name="apitestcucumber 2" />
       </profile>
     </annotationProcessing>
   </component>
